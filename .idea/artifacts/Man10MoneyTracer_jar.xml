@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Man10MoneyTracer:jar">
+    <output-path>$PROJECT_DIR$/../../minecraft server/plugins</output-path>
+    <root id="archive" name="Man10MoneyTracer.jar">
+      <element id="module-output" name="Man10MoneyTracer" />
+    </root>
+  </artifact>
+</component>
